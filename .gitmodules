@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/moderndatascience2022/moderndatascience2022.github.io.git
+	branch = main
