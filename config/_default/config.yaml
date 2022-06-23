@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MDMAPT2022 # Website name
+title: MDSAPT2022 # Website name
 baseURL: 'https://moderndatascience2022.github.io/' # Website URL
 
 ############################

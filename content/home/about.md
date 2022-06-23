@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
-title: MDMAPT2022
+title: MDSAPT2022
 subtitle: ''
 design:
   background:
