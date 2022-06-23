@@ -7,12 +7,15 @@ main:
   - name: The Event
     url: '#about'
     weight: 10
+  - name: Notices
+    url: "#notices"
+    weight: 20
   - name: Speakers
     url: '#speakers'
-    weight: 20
+    weight: 30
   - name: Schedule
     url: '#schedule'
-    weight: 30
+    weight: 40
   # - name: Workshops
   #   url: '#workshops'
   #   weight: 40

@@ -15,7 +15,7 @@ subtitle:
 content:
   address:
     street: 
-    city: Yale
+    city: School of Public Health， Yale University
     region: 
     postcode: 
     country: United States

@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  Conference Title
+  2022 International Symposium on Modern Data Science Application, Practice, and Theory
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 
 cta:
@@ -16,4 +16,3 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Description

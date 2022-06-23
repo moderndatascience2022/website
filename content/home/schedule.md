@@ -19,7 +19,7 @@ design:
   css_class: fullscreen
 ---
 
-DAY 1
+<!-- DAY 1 -->
 {style="padding-top: 5rem"}
 
 {{< table path="schedule.csv" header="true" >}}
