@@ -14,20 +14,19 @@ subtitle:
 
 content:
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 
+    city: Yale
+    region: 
+    postcode: 
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: 5 minutes walk from Hugo train station
+    latitude: 
+    longitude: 
+  directions: 
 
   # Optional email link in addition to form
-  email: hello@example.com
-  # Automatically link email and phone or display as text?
+  email: TBA # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider

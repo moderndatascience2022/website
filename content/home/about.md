@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
-title: Hugo that rocks!
+title: Introduction title
 subtitle: ''
 design:
   background:
@@ -20,11 +20,4 @@ design:
   css_class: fullscreen
 ---
 
-Hugo Summit is an annual conference on all things Hugo, gathering thousands of academics, scientists, and engineers from around the world.
-{style="padding-top: 5rem"}
-
-Hugo Summit offers a hybrid format with both remote and in-person participation.
-
-Both days, including the workshops, will be streamed live from the London venue including interactive entertainment.
-
-Stay tuned!
+Introduction.

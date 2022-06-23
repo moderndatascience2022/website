@@ -20,15 +20,3 @@ design:
 Check out frequently asked questions...
 {style="padding-top: 5rem"}
 
-## When will I recieve my ticket?
-
-You will receive your ticket to your e-mail immediately after successful payment.
-
-## Do you provide travel and accommodation for speakers?
-
-Yes, both accommodation and travel costs for selected speakers are covered by Hugo Summit.
-
-
-## Do I need a visa?
-
-If you are an EU citizen or member of the Schengen area you don’t need any visa. 

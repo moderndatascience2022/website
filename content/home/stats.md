@@ -25,15 +25,15 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: 2
+  - icon: TBA
     icon_pack: emoji
     name: Tracks
     description:
-  - icon: 60+
+  - icon: TBA
     icon_pack: emoji
     name: Speakers
     description:
-  - icon: 5,000+
+  - icon: TBA
     icon_pack: emoji
     name: Researchers
     description:
