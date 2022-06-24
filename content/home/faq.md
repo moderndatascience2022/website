@@ -9,10 +9,10 @@ weight: 80 # Order that this section will appear.
 title: FAQ
 subtitle: ''
 design:
-  background:
-    image: backgrounds/evangeline-shaw-xRlI-L-kvrw-unsplash.jpg
-    image_darken: 0.6
-    text_color_light: true
+  # background:
+  #   image: backgrounds/evangeline-shaw-xRlI-L-kvrw-unsplash.jpg
+  #   image_darken: 0.6
+  #   text_color_light: true
   columns: '1'
   css_class: fullscreen
 ---

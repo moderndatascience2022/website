@@ -10,8 +10,8 @@ title: Schedule
 subtitle: ''
 design:
   background:
-    image: backgrounds/spotlight.webp
-    text_color_light: true
+    # image: backgrounds/spotlight.webp
+    # text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ['20px', '0', '20px', '0']
