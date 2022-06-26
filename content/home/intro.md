@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  2022 International Symposium on Modern Data Science Application, Practice, and Theory
+  MDSAPT2022
   # {style="color: black; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 
 cta:
@@ -16,3 +16,4 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
+2022 International Symposium on Modern Data Science Application, Practice, and Theory
