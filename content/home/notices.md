@@ -16,17 +16,3 @@ The conference will focus on the development trends of the frontier fields of mo
 ## Symposium Fees
 - Amount: $??? USD.
 - The symposium fee covers expenses for meals and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours.
-- You may wire-transfer the symposium registration fee in the amount of $??? USD or its equivalent currency (excluding wire-transfer fee) to ???’s account:
-  - Bank Name：******
-  - Bank Address：******
-  - SWIFT CODE: ******
-  - Account Name: ******
-  - Account Number：******
-  - Payee's Phone Number: ******
-  - Payee’s Fax Number: ******
-  - Payee's Address：******
-
-
-
-
-
