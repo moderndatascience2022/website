@@ -1,26 +1,25 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 35
-
+widget: blank # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 35 # Order that this section will appear.
 title: Speakers
-subtitle:
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Speakers
-    - Hosts
-    - Committee
+subtitle: ''
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  background:
+    # image: backgrounds/spotlight.webp
+    # text_color_light: true
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['20px', '0', '20px', '0']
+  columns: '1'
+  css_class: fullscreen
 ---
+
+<!-- DAY 1 -->
+{style="padding-top: 5rem"}
+
+{{< table path="speakers.csv" header="true" >}}
