@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: The Event
+  - name: About
     url: '#about'
     weight: 10
   - name: Notices
@@ -16,16 +16,7 @@ main:
   - name: Schedule
     url: '#schedule'
     weight: 40
-  # - name: Workshops
-  #   url: '#workshops'
-  #   weight: 40
-  # - name: Tickets
-  #   url: '#tickets'
-  #   weight: 50
-  # - name: FAQ
-  #   url: '#faq'
-  #   weight: 60
-  - name: Contact
+  - name: Organizers
     url: '#contact'
     weight: 50
 

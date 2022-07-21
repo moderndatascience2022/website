@@ -9,10 +9,10 @@ weight: 30 # Order that this section will appear.
 title: MDSAPT2022
 subtitle: ''
 design:
-  # background:
-    # image: backgrounds/humphrey-muleba-72QxUqXuXz8-unsplash2.webp
-    # image_darken: 0.7
-    # text_color_light: true
+  background:
+    image: backgrounds/3.jpg
+    image_darken: 0.6
+    text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     # padding: ['20px', '0', '20px', '0']

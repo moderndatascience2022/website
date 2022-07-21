@@ -9,12 +9,15 @@ weight: 35 # Order that this section will appear.
 title: Speakers
 subtitle: ''
 design:
-  background:
-    # image: backgrounds/spotlight.webp
+  background: 
+    gradient_end: '#E5E4E2'
+    gradient_start: '#E5E4E2'
+    # image: backgrounds/4.jpg
+    # darken: 0.6
     # text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
+    # padding: ['20px', '0', '20px', '0']
   columns: '1'
   css_class: fullscreen
 ---
