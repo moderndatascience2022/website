@@ -14,5 +14,5 @@ The conference will focus on the development trends of the frontier fields of mo
 - Location: Winslow Auditorium (60 College Street), Yale University, New Haven, Connecticut, USA.
 
 ## Symposium Fees
-- Amount: $??? USD.
+- Amount: $188.
 - The symposium fee covers expenses for meals and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours.
