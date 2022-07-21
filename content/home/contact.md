@@ -47,6 +47,13 @@ widget: contact
 #   # css_style: 'padding-top: 0'
 ---
 
-## Contact
+# Program committee
+- Hongtu Zhu, University of North Carolina at Chapel Hill
+- Xueqing Wang, University of Science and Technology of China
+- Yize Zhao, Yale University
+- Rui Feng, University of Pennesylvania
+- Linglong Kong, University of Alberta 
+
+# Contact
 - Hongtu Zhu, htzhu@email.unc.edu
 - Xueqin Wang, wangxq20@ustc.edu.cn
