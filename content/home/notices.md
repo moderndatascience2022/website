@@ -15,4 +15,4 @@ The conference will focus on the development trends of the frontier fields of mo
 
 ## Symposium Fees
 - Amount: $188.
-- The symposium fee covers expenses for meals and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours.
+- The symposium fee covers expenses for dinner on November 19th and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours.
