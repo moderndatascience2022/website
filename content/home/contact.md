@@ -21,7 +21,7 @@ design:
 - Hongtu Zhu, University of North Carolina at Chapel Hill
 - Xueqing Wang, University of Science and Technology of China
 - Yize Zhao, Yale University
-- Rui Feng, University of Pennesylvania
+- Rui Feng, University of Pennsylvania
 - Linglong Kong, University of Alberta 
 
 ## Contact Information
