@@ -23,8 +23,11 @@ design:
 - Yize Zhao, Yale University
 - Rui Feng, University of Pennsylvania
 - Linglong Kong, University of Alberta 
+- Donna DelBasso, Yale University
+
 
 ## Contact Information
 
 - Hongtu Zhu, htzhu@email.unc.edu
 - Xueqin Wang, wangxq20@ustc.edu.cn
+- Donna DelBasso, donna.delbasso@yale.edu

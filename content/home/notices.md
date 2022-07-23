@@ -16,3 +16,14 @@ The conference will focus on the development trends of the frontier fields of mo
 ## Symposium Fees
 - Amount: $188.
 - The symposium fee covers expenses for dinner on November 19th and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours.
+
+## Accommodation
+We recommend the following hotels for the symposium.
+- The Blake Hotel, https://www.theblakenewhaven.com/
+- Omni New Haven Hotel At Yale, https://www.omnihotels.com/
+- The Study at Yale, https://www.thestudyatyale.com/
+- New Haven Hotel, https://www.newhavenhotel.com/
+
+## Transportation
+- By train: New Haven, Union Station (NHV) | Amtrak
+- By air: Tweed New Haven Airport (HVN) or Hartford-Bradley Airport (BDL)
