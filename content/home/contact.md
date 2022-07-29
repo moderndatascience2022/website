@@ -26,8 +26,11 @@ design:
 - Donna DelBasso, Yale University
 
 
-## Contact Information
+# Contact Information
 
 - Hongtu Zhu, htzhu@email.unc.edu
 - Xueqin Wang, wangxq20@ustc.edu.cn
 - Donna DelBasso, donna.delbasso@yale.edu
+  
+# Acknowledgements
+We are very grateful to Zhihan Liu and [Cloud Alliance Inc](https://www.cloudalliance.tech) for their sponsorship.
