@@ -33,4 +33,4 @@ design:
 - Donna DelBasso, donna.delbasso@yale.edu
   
 # Acknowledgements
-We are very grateful to Zhihan Liu and [Cloud Alliance Inc](https://www.cloudalliance.tech) for their sponsorship.
+We are very grateful to Zhifa Liu and [Cloud Alliance Inc](https://www.cloudalliance.tech) for their sponsorship.
