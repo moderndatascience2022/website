@@ -33,6 +33,6 @@ design:
 - Donna DelBasso, donna.delbasso@yale.edu
   
 # Acknowledgements
-We are very grateful to Zhifa Liu and Cloud Alliance Inc (https://www.cloudalliance.tech) for their sponsorship.
+We are very grateful to Zhifa Liu and [<u>Cloud Alliance Inc</u>](https://www.cloudalliance.tech) for their sponsorship.
 
 ![1](\../../assets/media/logo2.png)
