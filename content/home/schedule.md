@@ -451,7 +451,7 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Chair:</span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Xiao Wang</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Zhengwu Zhang</span></p>
   </td>
   <td width=1021 valign=top style='width:27.0cm;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
