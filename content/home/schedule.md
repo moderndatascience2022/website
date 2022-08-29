@@ -25,6 +25,7 @@ design:
 {{< table path="schedule.csv" header="true" >}} -->
 
 
+
 <html>
 
 <head>
@@ -82,8 +83,7 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
+<p class=MsoNormal><span lang=EN-US style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
 
 <table class=Style10 border=1 cellspacing=0 cellpadding=0 width=1360
  style='border-collapse:collapse;border:none'>
@@ -194,7 +194,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Annie Qu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Crowdsourcing Utilizing Subgroup Structure of Latent Factor
+  Modeling</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -250,7 +253,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Shuangge Ma</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Gene-environment interaction analysis assisted by multi-level
+  hierarchical prior information</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -341,7 +347,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Bingxin Zhao</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Understanding high-dimensional sparsity-free prediction using
+  approximate message passing with genetic applications</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -358,7 +367,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Dehan Kong</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Fighting Noise with Noise: Causal Inference with Many Candidate
+  Instruments</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -408,7 +420,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Chao Huang</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>S-GMAS: Shape based Genome-wide Mediation Analysis</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -425,7 +439,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Hai Shu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Orthogonal Common-Source and Distinctive-Source Decomposition
+  Between High-Dimensional Data Views</span></p>
   </td>
  </tr>
  <tr>
@@ -459,7 +476,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Ji Zhu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Modeling Hypergraphs with Diversity and Heterogeneous Popularity</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -492,6 +511,8 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Xiaohong Chen</span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -596,7 +617,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Tony Cai</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Transfer Learning: Optimality and Adaptive Algorithms</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -630,7 +653,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Peter Song</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Kidney Paired Donation Programs</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -717,7 +742,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Xiao Wang</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Efficient Multimodal Sampling via Tempered Distribution Flow</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -777,7 +804,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Chair:</span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Fenghai Duan</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Fenghai</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Duan</span></p>
   </td>
   <td width=1021 valign=top style='width:27.0cm;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
@@ -785,7 +814,9 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Bi Xuan</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Distribution-invariant differential privacy</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -940,7 +971,10 @@ style='font-size:22.0pt;font-family:"微软雅黑",sans-serif'></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Zhenhua Lin</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Optimal One-pass Nonparametric Estimation Under Memory
+  Constraint</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
