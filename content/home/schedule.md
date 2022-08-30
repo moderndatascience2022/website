@@ -19,12 +19,6 @@ design:
   css_class: fullscreen
 ---
 
-<!-- DAY 1 -->
-<!-- {style="padding-top: 5rem"}
-
-{{< table path="schedule.csv" header="true" >}} -->
-
-https://docs.google.com/document/d/1WM8sOH4ZDrty0QGZqGkUScLtsRtuEujK1uKhuAZuZo4/edit?usp=sharing
 
 <html>
 
@@ -196,8 +190,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  color:black'> <a href=http://www.example.com>Crowdsourcing Utilizing Subgroup Structure of Latent Factor
-  Modeling</a></span></p>
+  color:black'>Crowdsourcing Utilizing Subgroup Structure of Latent Factor
+  Modeling</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -216,7 +210,10 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Mingge Xie</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Repro samples method: A general framework for performance
+  guaranteed finite- and large-sample frequentist inferences in data science</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -386,7 +383,9 @@ div.WordSection1
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Linglong Kong<br>
-  Title:</span></p>
+  Title:</span><span lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;color:black'>Identification, Amplification and Measurement: A
+  bridge to Gaussian Differential Privacy</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -476,8 +475,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Xiaohong Chen</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
-
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -494,7 +493,9 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Yufeng Liu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>On Robustness of Individualized Decision Rules</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -511,9 +512,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Ji Zhu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
-  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  color:black'>Modeling Hypergraphs with Diversity and Heterogeneous Popularity</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title: Modeling
+  Hypergraphs with Diversity and Heterogeneous Popularity</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -635,7 +635,9 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Xuming He</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Covariate-adjusted Expected Shortfall</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -1007,7 +1009,10 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Minghui Chen</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Bayesian Model Assessment for Jointly Modeling Multidimensional
+  Response Data with Application to Computerized Testing</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
