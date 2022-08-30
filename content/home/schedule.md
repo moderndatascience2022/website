@@ -24,7 +24,7 @@ design:
 
 {{< table path="schedule.csv" header="true" >}} -->
 
-
+https://docs.google.com/document/d/1WM8sOH4ZDrty0QGZqGkUScLtsRtuEujK1uKhuAZuZo4/edit?usp=sharing
 
 <html>
 
@@ -196,8 +196,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  color:black'>Crowdsourcing Utilizing Subgroup Structure of Latent Factor
-  Modeling</span></p>
+  color:black'> <a href=http://www.example.com>Crowdsourcing Utilizing Subgroup Structure of Latent Factor
+  Modeling</a></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -474,11 +474,10 @@ div.WordSection1
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Ji Zhu</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Xiaohong Chen</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
-  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  color:black'>Modeling Hypergraphs with Diversity and Heterogeneous Popularity</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
@@ -510,11 +509,11 @@ div.WordSection1
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Xiaohong Chen</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Ji Zhu</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span></p>
+  style='font-size:16.0pt;font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  color:black'>Modeling Hypergraphs with Diversity and Heterogeneous Popularity</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;color:black'>&nbsp;</span></p>
   </td>
