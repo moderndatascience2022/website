@@ -13,15 +13,15 @@ The conference will focus on the development trends of the frontier fields of mo
 - Date: November 19 (Saturday) and November 20 (Sunday), 2022.
 - Location: Winslow Auditorium (60 College Street), Yale University, New Haven, Connecticut, USA.
  
-## Transportation and Accommodation
+## Transportation and Accommodations
 
-Attenders are advised to arrange their own travel and accommodation. Here are some recommendations.
+Attendees are advised to arrange their own travel and accommodations. Here are some recommendations.
 
 <!-- ## Symposium Fees
 - Amount: $188.
 - The symposium fee covers expenses for dinner on November 19th and symposium documents during the symposium. The symposium fee does not cover costs for hotel rooms, telecommunication expenses, and post-conference tours. -->
 
-#### Accommodation
+#### Accommodations
 - The Blake Hotel, https://www.theblakenewhaven.com/
 - Omni New Haven Hotel At Yale, https://www.omnihotels.com/
 - The Study at Yale, https://www.thestudyatyale.com/
