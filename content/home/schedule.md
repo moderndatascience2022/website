@@ -21,6 +21,7 @@ design:
 
 
 
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -38,31 +39,30 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>12</o:Revision>
+  <o:TotalTime>866</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-08-30T13:52:00Z</o:LastSaved>
+  <o:LastSaved>2022-08-31T04:17:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>465</o:Words>
-  <o:Characters>2657</o:Characters>
-  <o:Lines>22</o:Lines>
-  <o:Paragraphs>6</o:Paragraphs>
-  <o:CharactersWithSpaces>3116</o:CharactersWithSpaces>
+  <o:Words>548</o:Words>
+  <o:Characters>3124</o:Characters>
+  <o:Lines>26</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3665</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
   <o:KSOProductBuildVer dt:dt="string">1033-3.9.4.6407</o:KSOProductBuildVer>
  </o:CustomDocumentProperties>
 </xml><![endif]-->
-<link rel=dataStoreItem href="Schedule_final%20-%20副本.files/item0001.xml"
-target="Schedule_final%20-%20副本.files/props002.xml">
+<link rel=dataStoreItem href="Schedule_final%20-%20副本.files/item0007.xml"
+target="Schedule_final%20-%20副本.files/props008.xml">
 <link rel=themeData href="Schedule_final%20-%20副本.files/themedata.thmx">
 <link rel=colorSchemeMapping
 href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -799,9 +799,6 @@ span.a1
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1124,7 +1121,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   color:black'>Ofer</span></span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> <span class=SpellE>Harel</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Clusters disagreements between training
+  and testing data<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1169,7 +1169,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yue
   <span class=SpellE>Niu</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Equivariant Variance Estimation for
+  Multiple Change-point Model<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1239,7 +1242,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Fighting Noise with Noise: Causal
-  Inference with Many <span class=GramE>Candidate</span> Instruments<o:p></o:p></span></p>
+  Inference with Many Candidate Instruments<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1282,6 +1285,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   Risk<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Unsupervised
+  learning in data integration studies using JIVE with Gaussian mixtures<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1328,6 +1334,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Orthogonal Common-Source and
   Distinctive-Source Decomposition Between High-Dimensional Data Views<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20'>
@@ -1457,7 +1465,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yuan
   Jiang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Stability Approach to Regularization
+  Selection for Reduced-Rank Regression<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1676,7 +1687,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   color:black'>Huixia</span></span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Wang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Copula-based Multiple Indicator Kriging
+  for non-Gaussian Random Fields<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1826,7 +1840,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   color:black'>Jiwei</span></span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Nonregular and minimax estimation of
+  individualized thresholds in high dimension with binary responses<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1867,7 +1884,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   color:black'>Dungang</span></span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Model diagnostics of discrete data
+  regression: a unifying framework using functional residuals<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
