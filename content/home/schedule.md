@@ -39,16 +39,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>866</o:TotalTime>
+  <o:Revision>20</o:Revision>
+  <o:TotalTime>869</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-08-31T04:17:00Z</o:LastSaved>
+  <o:LastSaved>2022-08-31T13:01:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>548</o:Words>
+  <o:Words>547</o:Words>
   <o:Characters>3124</o:Characters>
   <o:Lines>26</o:Lines>
   <o:Paragraphs>7</o:Paragraphs>
-  <o:CharactersWithSpaces>3665</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3664</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -63,6 +63,7 @@ href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -584,6 +585,7 @@ href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 h1
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 1 字符";
 	mso-style-next:正文;
 	margin-top:24.0pt;
 	margin-right:0cm;
@@ -602,6 +604,7 @@ h1
 h2
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 2 字符";
 	mso-style-next:正文;
 	margin-top:18.0pt;
 	margin-right:0cm;
@@ -619,6 +622,7 @@ h2
 h3
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 3 字符";
 	mso-style-next:正文;
 	margin-top:14.0pt;
 	margin-right:0cm;
@@ -636,6 +640,7 @@ h3
 h4
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 4 字符";
 	mso-style-next:正文;
 	margin-top:12.0pt;
 	margin-right:0cm;
@@ -653,6 +658,7 @@ h4
 h5
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 5 字符";
 	mso-style-next:正文;
 	margin-top:11.0pt;
 	margin-right:0cm;
@@ -670,6 +676,7 @@ h5
 h6
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 6 字符";
 	mso-style-next:正文;
 	margin-top:10.0pt;
 	margin-right:0cm;
@@ -726,6 +733,7 @@ span.MsoCommentReference
 p.MsoTitle, li.MsoTitle, div.MsoTitle
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"标题 字符";
 	mso-style-next:正文;
 	margin-top:24.0pt;
 	margin-right:0cm;
@@ -743,6 +751,7 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
+	mso-style-link:"副标题 字符";
 	mso-style-next:正文;
 	margin-top:18.0pt;
 	margin-right:0cm;
@@ -759,6 +768,108 @@ p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	color:#666666;
 	font-style:italic;
 	mso-bidi-font-style:normal;}
+span.1
+	{mso-style-name:"标题 1 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 1";
+	mso-ansi-font-size:22.0pt;
+	mso-bidi-font-size:22.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-bidi-font-family:Calibri;
+	mso-font-kerning:22.0pt;
+	font-weight:bold;}
+span.2
+	{mso-style-name:"标题 2 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"标题 3 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 3";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-bidi-font-family:Calibri;
+	font-weight:bold;}
+span.4
+	{mso-style-name:"标题 4 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 4";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+span.5
+	{mso-style-name:"标题 5 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 5";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-bidi-font-family:Calibri;
+	font-weight:bold;}
+span.6
+	{mso-style-name:"标题 6 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 6";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
 span.a
 	{mso-style-name:"批注文字 字符";
 	mso-style-unhide:no;
@@ -796,9 +907,47 @@ span.a1
 	mso-fareast-font-family:Calibri;
 	mso-hansi-font-family:Calibri;
 	mso-bidi-font-family:Calibri;}
+span.a2
+	{mso-style-name:"标题 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:标题;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+span.a3
+	{mso-style-name:"副标题 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:副标题;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:14.0pt;
+	font-weight:bold;}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1216,9 +1365,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Understanding high-dimensional
-  sparsity-free prediction using approximate message passing with genetic
-  applications<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Understanding high-dimensional sparsity-free
+  prediction using approximate message passing with genetic applications<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1242,7 +1390,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Fighting Noise with Noise: Causal
-  Inference with Many Candidate Instruments<o:p></o:p></span></p>
+  Inference with Many <span class=GramE>Candidate</span> Instruments<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1712,8 +1860,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Efficient Multimodal Sampling via Tempered
-  Distribution Flow<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Efficient Multimodal Sampling via
+  Tempered Distribution Flow<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1800,8 +1948,6 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Distribution-invariant differential
   privacy<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:41;height:8.05pt'>
@@ -1816,8 +1962,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiang
-  Chen<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Rui
+  Feng<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -1842,8 +1988,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Nonregular and minimax estimation of
-  individualized thresholds in high dimension with binary responses<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Nonregular and minimax estimation of individualized
+  thresholds in high dimension with binary responses<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1946,8 +2092,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Rui
-  Feng<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiang
+  Chen<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -1996,8 +2142,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Optimal One-pass Nonparametric
-  Estimation Under Memory Constraint<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Optimal One-pass Nonparametric Estimation
+  Under Memory Constraint<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2040,9 +2186,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Bayesian Model Assessment for Jointly
-  Modeling Multidimensional Response Data with Application to Computerized
-  Testing<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Bayesian Model Assessment for Jointly Modeling
+  Multidimensional Response Data with Application to Computerized Testing<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
