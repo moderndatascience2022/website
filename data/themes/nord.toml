@@ -12,28 +12,28 @@ name = "nord"
 
   # Menu
   menu_primary = "#2E3440"
-  menu_text = "#ECEFF4"
+  menu_text = "#FFFFFF"
   menu_text_active = "#88C0D0"
   menu_title = "#88C0D0"
 
   # Background
-  background = "#ECEFF4"
+  background = "#FFFFFF"
 
   # Home sections
-  home_section_odd = "#ECEFF4"
-  home_section_even = "#ECEFF4"
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFFF"
 
 [dark]
 
   # Primary
-  primary = "#ECEFF4"
+  primary = "#FFFFFF"
 
-  link = "#ECEFF4"
+  link = "#FFFFFF"
   link_hover = "#EBCB8B"
   # link_decoration = "underline"
 
   # Menu
-  menu_primary = "#ECEFF4"
+  menu_primary = "#FFFFFF"
   menu_text = "#2E3440"
   menu_text_active = "#5E81AC"
   menu_title = "#5E81AC"

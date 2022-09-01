@@ -10,8 +10,8 @@ widget: blank
 weight: 50
 design:
   background:
-    gradient_end: '#E5E4E2'
-    gradient_start: '#E5E4E2'
+    gradient_end: '#F7F7F7'
+    gradient_start: '#F7F7F7'
   columns: '1'
   # css_style: 'padding-top: 0'
 ---

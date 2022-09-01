@@ -10,8 +10,8 @@ title: Speakers
 subtitle: ''
 design:
   background: 
-    gradient_end: '#E5E4E2'
-    gradient_start: '#E5E4E2'
+    gradient_end: '#F7F7F7'
+    gradient_start: '#F7F7F7'
     # image: backgrounds/4.jpg
     # darken: 0.6
     # text_color_light: true
