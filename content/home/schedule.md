@@ -22,7 +22,6 @@ design:
 
 
 
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -40,16 +39,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>119</o:Revision>
-  <o:TotalTime>890</o:TotalTime>
+  <o:Revision>120</o:Revision>
+  <o:TotalTime>891</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-09-07T00:15:00Z</o:LastSaved>
+  <o:LastSaved>2022-09-07T03:10:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>690</o:Words>
-  <o:Characters>3934</o:Characters>
-  <o:Lines>32</o:Lines>
+  <o:Words>697</o:Words>
+  <o:Characters>3974</o:Characters>
+  <o:Lines>33</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4615</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4662</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -1686,8 +1685,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Transfer Learning: Optimality and
-  Adaptive Algorithms<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Transfer Learning: Optimality and Adaptive
+  Algorithms<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1751,7 +1750,10 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Jiayang
   Sun<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Semi-parametric Learning for feature
+  selection<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2090,8 +2092,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Understanding the functional
-  contributions of epigenetic deregulations in pediatric solid tumors<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Understanding the functional contributions
+  of epigenetic deregulations in pediatric solid tumors<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2136,8 +2138,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Optimal One-pass Nonparametric Estimation
-  Under Memory Constraint<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Optimal One-pass Nonparametric
+  Estimation Under Memory Constraint<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2220,4 +2222,3 @@ style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 </body>
 
 </html>
-
