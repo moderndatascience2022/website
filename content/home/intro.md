@@ -7,8 +7,8 @@ title: |
   #  {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px white, 0 0 2px black;"}
 hero_media: backgrounds/2.jpg
 cta:
-  url: '#schedule'
-  label: '<span style="color: white">Schedule</span>'
+  url: 'https://archive.nestat.org/mdsapt2022/html/registration.php'
+  label: '<span style="color: white">Registration</span>'
 # design:
 #   background:
 #     image: backgrounds/1.jpg
