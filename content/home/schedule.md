@@ -40,16 +40,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>142</o:Revision>
-  <o:TotalTime>1401</o:TotalTime>
+  <o:Revision>172</o:Revision>
+  <o:TotalTime>1404</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-09-07T11:40:00Z</o:LastSaved>
+  <o:LastSaved>2022-09-08T12:58:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>678</o:Words>
-  <o:Characters>3871</o:Characters>
+  <o:Words>680</o:Words>
+  <o:Characters>3882</o:Characters>
   <o:Lines>32</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4540</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4553</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -63,6 +63,8 @@ target="Schedule_final%20-%20副本.files/props008.xml">
 href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -941,6 +943,12 @@ span.a3
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:14.0pt;
 	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1025,12 +1033,12 @@ table.Style10
 <p class=MsoNormal><span lang=EN-US style='font-size:22.0pt;font-family:"微软雅黑",sans-serif;
 mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
 
-<table class=Style10 border=1 cellspacing=0 cellpadding=0 width=1360
+<table class=Style10 border=1 cellspacing=0 cellpadding=0 width=1020
  style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
  mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=1360 colspan=2 valign=top style='width:1020.0pt;border:solid black 1.0pt;
+  <td width=1020 colspan=2 valign=top style='width:765.2pt;border:solid black 1.0pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><b><span
   lang=EN-US style='font-size:24.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
@@ -1038,13 +1046,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'>Time<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1053,13 +1061,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Morning<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1068,31 +1076,34 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>8:00-8:10<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Hongtu
-  Zhu<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Hongtu</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhu<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-indent:320.0pt;mso-char-indent-count:20.0'><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Opening Ceremony<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Shuangge
-  Ma<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Opening
+  Ceremony<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Shuangge</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Ma<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1101,28 +1112,30 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair</span><span
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>：<span
   lang=EN-US><o:p></o:p></span></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhenhua
-  Lin<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Zhenhua</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Lin<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Jianqing
-  Fan</span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:
-  仿宋'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Jianqing</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Fan</span><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'>Title: Factor
-  Augmented Sparse Throughput Deep ReLU Neural Networks for High Dimensional
-  Regression</span></p>
+  Augmented Sparse Throughput Deep <span class=SpellE>ReLU</span> Neural
+  Networks for High Dimensional Regression</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1130,13 +1143,14 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Cunhui
-  Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Cunhui</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -1144,7 +1158,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1152,7 +1166,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1169,7 +1183,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1177,13 +1191,14 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Mingge
-  Xie<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Mingge</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> <span class=SpellE>Xie</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1195,13 +1210,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1212,7 +1227,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1221,17 +1236,19 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair</span><span
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>：<span
   lang=EN-US><o:p></o:p></span></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dehan
-  Kong<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Dehan</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Shuangge
-  Ma<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Shuangge</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Ma<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1242,7 +1259,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1250,13 +1267,14 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ofer
-  Harel<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Ofer</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> <span class=SpellE>Harel</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1267,7 +1285,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1275,13 +1293,14 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Feifei
-  Xiao<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Feifei</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Xiao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1293,7 +1312,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -1301,13 +1320,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yue
-  Niu<o:p></o:p></span></p>
+  <span class=SpellE>Niu</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1318,13 +1337,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Afternoon<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1333,24 +1352,27 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>13:30-13:50<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yize
-  Zhao<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Yize</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Bingxin
-  Zhao<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Bingxin</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1362,42 +1384,44 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>13:50-14:10<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dehan
-  Kong<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Dehan</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Fighting Noise with Noise: Causal
-  Inference with Many Candidate Instruments<o:p></o:p></span></p>
+  Inference with Many <span class=GramE>Candidate</span> Instruments<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:10-14:30<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Linglong
-  Kong<br>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Linglong</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<br>
   Title:</span><span lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Identification,
   Amplification and Measurement: A bridge to Gaussian Differential Privacy<o:p></o:p></span></p>
@@ -1406,34 +1430,37 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:30-14:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Benjamin
   Risk<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:Unsupervised
-  learning in data integration studies using JIVE with Gaussian mixtures<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  class=GramE><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Title:Unsupervised</span></span></span><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'> learning in data integration studies using JIVE with Gaussian
+  mixtures<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:50-15:10<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1450,19 +1477,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>15:10-15:30<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhengwu
-  Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Zhengwu</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1473,13 +1501,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1490,48 +1518,49 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>16:00-16:25<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhengwu
-  Zhang<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Zhengwu</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiaohong
-  Chen<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Xiaohong</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Chen<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
   mso-bidi-font-family:仿宋;color:black'>Identification and Estimation of
-  Treatment Effects in the Limited<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Overlap
-  Region<o:p></o:p></span></p>
+  Treatment Effects in the Limited Overlap Region<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:22'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>16:25-16:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yufeng
-  Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Yufeng</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1542,13 +1571,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>16:50-17:15<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1563,19 +1592,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>17:15-17:40<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chuanhai
-  Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Chuanhai</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1586,13 +1616,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:25'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>17:40-18:05<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1609,7 +1639,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:26;height:8.05pt'>
-  <td width=1360 colspan=2 valign=top style='width:1020.0pt;border:solid black 1.0pt;
+  <td width=1020 colspan=2 valign=top style='width:765.2pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -1617,13 +1647,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Morning<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1632,18 +1662,21 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>8:00-8:25<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Harris
-  Zhou<span style='background:yellow;mso-highlight:yellow'><o:p></o:p></span></span></p>
+  Zhou<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1653,26 +1686,27 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Transfer Learning: Optimality and Adaptive
-  Algorithms<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Transfer Learning: Optimality and
+  Adaptive Algorithms<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:29;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>8:25-8:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xuming
-  He<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Xuming</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> He<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1682,13 +1716,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:30;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>8:50-9:15<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1704,13 +1738,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:31;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>9:15-9:40<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1727,13 +1761,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:32;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1744,18 +1778,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:33;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>10:00-10:25<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Linglong
-  Kong<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Linglong</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1764,27 +1800,30 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   Wang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
-  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>iProMix: A mixture model for studying
-  the function of ACE2 based on bulk proteogenomic data<o:p></o:p></span></p>
+  lang=EN-US> </span><span class=SpellE><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>iProMix</span></span><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>: A mixture model for studying the function of ACE2 based on
+  bulk proteogenomic data<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:34;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>10:25-10:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Huixia
-  Wang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Huixia</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Wang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1795,13 +1834,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:35;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>10:50-11:15<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1818,13 +1857,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:36;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>11:15-11:40<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1841,13 +1880,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:37;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>11:40-12:05<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1864,13 +1903,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:38;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Afternoon<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1879,19 +1918,22 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:39;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>13:30-13:50<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
+  <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Fenghai</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Duan<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Fenghai<o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Duan<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1906,13 +1948,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:40;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>13:50-14:10<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -1929,19 +1971,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:41;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:10-14:30<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Jiwei
-  Zhao<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Jiwei</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1952,19 +1995,19 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:42;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:30-14:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ching-Ti
-  Liu<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ching-<span
+  class=SpellE>Ti</span> Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1975,19 +2018,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:43;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>14:50-15:10<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dungang
-  Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Dungang</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1998,19 +2042,19 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:44;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>15:10-15:30<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Huan
-  Xie<o:p></o:p></span></p>
+  <span class=SpellE>Xie</span><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2022,13 +2066,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:45;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -2039,7 +2083,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:46;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
@@ -2050,7 +2094,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Cai
   Li<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -2060,26 +2104,27 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Understanding the functional contributions
-  of epigenetic deregulations in pediatric solid tumors<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Understanding the functional
+  contributions of epigenetic deregulations in pediatric solid tumors<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:47;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>16:25-16:50<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiaohua
-  Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Xiaohua</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2090,19 +2135,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:48;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>16:50-17:15<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhenhua
-  Lin<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Zhenhua</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Lin<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2113,13 +2159,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:49;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>17:15-17:40<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
@@ -2136,19 +2182,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:50;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>17:40-18:05<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Minghui
-  Chen<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Minghui</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Chen<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2160,19 +2207,20 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:51;mso-yfti-lastrow:yes;height:8.05pt'>
-  <td width=340 valign=top style='width:254.7pt;border:solid black 1.0pt;
+  <td width=245 valign=top style='width:184.05pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>18:05-18:10<o:p></o:p></span></p>
   </td>
-  <td width=1020 valign=top style='width:765.3pt;border-top:none;border-left:
+  <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Heping
-  Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>Heping</span></span><span lang=EN-US style='font-size:16.0pt;
+  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Concluding
   Remarks<o:p></o:p></span></p>
@@ -2190,4 +2238,3 @@ style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 </body>
 
 </html>
-
