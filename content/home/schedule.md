@@ -2199,3 +2199,5 @@ style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 </body>
 
 </html>
+
+{{% staticref "uploads/abstracts_MDSAPT2022.pdf" "newtab" %}} **Abstracts.pdf**{{% /staticref %}}
