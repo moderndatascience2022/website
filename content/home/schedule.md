@@ -2200,4 +2200,6 @@ style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 
 </html>
 
-{{% staticref "uploads/abstracts_MDSAPT2022.pdf" "newtab" %}} **Abstracts.pdf**{{% /staticref %}}
+<!-- {{% staticref "uploads/abstracts_MDSAPT2022.pdf" "newtab" %}} **Abstracts.pdf**{{% /staticref %}} -->
+
+{{< cta cta_text="Abstracts.pdf" cta_link="/uploads/abstracts_MDSAPT2022.pdf" cta_new_tab="false" >}}
