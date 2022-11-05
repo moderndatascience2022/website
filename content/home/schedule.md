@@ -23,6 +23,9 @@ design:
 
 
 
+
+
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -40,16 +43,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>174</o:Revision>
-  <o:TotalTime>1405</o:TotalTime>
+  <o:Revision>216</o:Revision>
+  <o:TotalTime>1408</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-09-12T12:32:00Z</o:LastSaved>
+  <o:LastSaved>2022-10-28T03:44:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>682</o:Words>
-  <o:Characters>3892</o:Characters>
+  <o:Words>683</o:Words>
+  <o:Characters>3894</o:Characters>
   <o:Lines>32</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4565</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4568</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -1185,14 +1188,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Mingge
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Minge
   Xie<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Repro samples method: A general
-  framework for performance guaranteed finite- and large-sample frequentist
-  inferences in data science<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Repro samples method - A general framework
+  for performance guaranteed statistical inference in data science<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1555,11 +1557,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ji
-  Zhu<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Runze
+  Li<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:
-  Modeling Hypergraphs with Diversity and Heterogeneous Popularity<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>Testing the effects of high-dimensional
+  covariates via aggregating cumulative covariances<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1643,7 +1647,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Harris
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Harrison
   Zhou<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -2193,12 +2197,13 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
 style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 
-
 </div>
 
 </body>
 
 </html>
+
+
 
 <!-- {{% staticref "uploads/abstracts_MDSAPT2022.pdf" "newtab" %}} **Abstracts.pdf**{{% /staticref %}} -->
 

@@ -33,9 +33,11 @@ design:
 - Donna DelBasso, donna.delbasso@yale.edu
   
 # Acknowledgements
-We are very grateful to [<u>the Yale School of Public Health Biostatistics Department</u>](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), Zhifa Liu, [<u>Cloud Alliance Inc</u>](https://www.cloudalliance.tech), [<u>New England Statistical Society</u>](https://nestat.org/) and [<u>Connecticut Chapter of the American Statistical Association</u>](https://community.amstat.org/connecticutchapter/home) for their sponsorships.
+We are very grateful to [<u>the Yale School of Public Health Biostatistics Department</u>](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), Zhifa Liu, [<u>Cloud Alliance Inc</u>](https://www.cloudalliance.tech), [<u>New England Statistical Society</u>](https://nestat.org/), [<u>Connecticut Chapter of the American Statistical Association</u>](https://community.amstat.org/connecticutchapter/home) and [<u>  Statistical Learning and Data Science Section of the American Statistical Association</u> ](https://community.amstat.org/slds/home) for their sponsorships. 
 
 {{< figure src="\../../assets/media/yale3.png" >}}
 {{< figure src="\../../assets/media/resized/logo2.png" width="30%">}}
 {{< figure src="\../../assets/media/resized/ness_logo.png" width="40%">}}
 {{< figure src="\../../assets/media/resized/mb2016.png" width="60%">}}
+{{< figure src="\../../assets/media/slds.png" width="60%">}}
+
