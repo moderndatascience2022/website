@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Talk Information Submission
+title: Talk Slides Submission
 subtitle:
 
 # content:
@@ -27,7 +27,7 @@ subtitle:
 #   # css_style: 'padding-top: 0'
 ---
 
-<!-- modify this form HTML and place wherever you want your form -->
+<!-- modify this form HTML and place wherever you want your form
 <form
   action="https://formspree.io/f/xayknjgk"
   method="POST"
@@ -41,5 +41,22 @@ subtitle:
     <label for="Abstract">Abstract<br /></label> <br />
     <textarea rows="10" name="Abstract" id="Abstract" ></textarea> <br />
     <button type="submit">Send</button>
-</form>
+</form> -->
 
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mgeqdeok"
+  method="POST"
+  enctype="multipart/form-data"
+
+<label>
+   <label for="full-name">Name</label>  <br />
+    <input type="text" name="name" id="full-name"> <br />
+  <label for="email-address">Email Address</label> <br />
+    <input type="email" name="_replyto" id="email-address"> <br /><br />
+  <label>
+    Talk Slides (Size <= 25 MB) <br />
+    <input type="file" name="upload">
+  </label><br />
+  <button type="submit">Submit</button>
+</form>
