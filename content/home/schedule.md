@@ -26,7 +26,6 @@ design:
 
 
 
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -44,16 +43,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Data</o:Author>
   <o:LastAuthor>tangborui@mail.ustc.edu.cn</o:LastAuthor>
-  <o:Revision>220</o:Revision>
-  <o:TotalTime>1409</o:TotalTime>
+  <o:Revision>236</o:Revision>
+  <o:TotalTime>1410</o:TotalTime>
   <o:Created>2022-08-30T13:52:00Z</o:Created>
-  <o:LastSaved>2022-11-16T14:28:00Z</o:LastSaved>
+  <o:LastSaved>2022-11-16T15:48:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>679</o:Words>
-  <o:Characters>3876</o:Characters>
+  <o:Words>677</o:Words>
+  <o:Characters>3861</o:Characters>
   <o:Lines>32</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4546</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4529</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -67,7 +66,6 @@ target="Schedule_final%20-%20副本.files/props008.xml">
 href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -524,7 +522,7 @@ href="Schedule_final%20-%20副本.files/colorschememapping.xml">
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:3 0 0 0 1 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -944,9 +942,6 @@ span.a3
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:14.0pt;
 	font-weight:bold;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1082,10 +1077,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Hongtu</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhu<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Hongtu
+  Zhu<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
@@ -1094,10 +1088,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Opening
   Ceremony<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Shuangge</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Ma<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Shuangge
+  Ma<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
@@ -1110,24 +1103,22 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair</span><span
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>：<span
   lang=EN-US><o:p></o:p></span></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Zhenhua</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Lin<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhenhua
+  Lin<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Jianqing</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Fan</span><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Jianqing
+  Fan</span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:
+  仿宋'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'>Title: Factor
-  Augmented Sparse Throughput Deep <span class=SpellE>ReLU</span> Neural
-  Networks for High Dimensional Regression</span></p>
+  Augmented Sparse Throughput Deep ReLU Neural Networks for High Dimensional
+  Regression</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1145,10 +1136,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Cunhui</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Cunhui
+  Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1197,12 +1187,12 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Minge
-  <span class=SpellE>Xie</span><o:p></o:p></span></p>
+  Xie<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Repro samples method - A general
-  framework for performance guaranteed statistical inference in data science<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Repro samples method - A general framework
+  for performance guaranteed statistical inference in data science<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1234,24 +1224,22 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair</span><span
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>：<span
   lang=EN-US><o:p></o:p></span></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Dehan</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dehan
+  Kong<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Shuangge</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Ma<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Shuangge
+  Ma<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Gene-environment interaction analysis assisted
-  by multi-level hierarchical prior information<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Gene-environment interaction analysis
+  assisted by multi-level hierarchical prior information<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1269,10 +1257,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Ofer</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> <span class=SpellE>Harel</span><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ofer
+  Harel<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1322,7 +1309,7 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yue
-  <span class=SpellE>Niu</span><o:p></o:p></span></p>
+  Niu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1356,25 +1343,22 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Yize</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yize
+  Zhao<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Bingxin</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Bingxin
+  Zhao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Understanding high-dimensional
-  sparsity-free prediction using approximate message passing with genetic
-  applications<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Understanding high-dimensional sparsity-free
+  prediction using approximate message passing with genetic applications<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1390,10 +1374,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Dehan</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dehan
+  Kong<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1414,10 +1397,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Linglong</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<br>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Linglong
+  Kong<br>
   Title:</span><span lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;
   font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Identification,
   Amplification and Measurement: A bridge to Gaussian Differential Privacy<o:p></o:p></span></p>
@@ -1439,10 +1421,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Benjamin
   Risk<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Title:Unsupervised</span></span><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:Unsupervised
   learning in data integration studies using JIVE with Gaussian mixtures<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1482,10 +1462,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Zhengwu</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhengwu
+  Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1521,19 +1500,17 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Zhengwu</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhengwu
+  Zhang<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Xiaohong</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Chen<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiaohong
+  Chen<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1552,10 +1529,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Yufeng</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Yufeng
+  Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1576,10 +1552,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Runze</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Li<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Runze
+  Li<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1600,10 +1575,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Chuanhai</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chuanhai
+  Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1701,10 +1675,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Xuming</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> He<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xuming
+  He<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1784,10 +1757,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Linglong</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Kong<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Linglong
+  Kong<o:p></o:p></span></p>
   </td>
   <td width=775 valign=top style='width:581.15pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
@@ -1798,11 +1770,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   Wang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
-  lang=EN-US> </span><span class=SpellE><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>iProMix</span></span><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>: A mixture model for studying the function of ACE2 based on
-  bulk proteogenomic data<o:p></o:p></span></p>
+  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
+  mso-bidi-font-family:仿宋;color:black'>iProMix: A mixture model for studying
+  the function of ACE2 based on bulk proteogenomic data<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1818,10 +1788,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Huixia</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Wang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Huixia
+  Wang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -1848,8 +1817,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Efficient Multimodal Sampling via
-  Tempered Distribution Flow<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Efficient Multimodal Sampling via Tempered
+  Distribution Flow<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1924,10 +1893,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Chair:
   <o:p></o:p></span></p>
-  <p class=MsoNormal align=left style='text-align:left'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Fenghai</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Duan<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Fenghai
+  Duan<o:p></o:p></span></p>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -1979,10 +1947,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Jiwei</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhao<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Jiwei
+  Zhao<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2004,8 +1971,8 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ching-<span
-  class=SpellE>Ti</span> Liu<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Ching-Ti
+  Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2026,10 +1993,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Dungang</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Liu<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Dungang
+  Liu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2052,13 +2018,12 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Huan
-  <span class=SpellE>Xie</span><o:p></o:p></span></p>
+  Xie<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Pre-Clinical Drug Development:
-  Computational Design, Screening, Formulation and
-  Pharmacokinetics/Pharmacodynamics<o:p></o:p></span></p>
+  mso-bidi-font-family:仿宋;color:black'>Pre-Clinical Drug Development: Computational
+  Design, Screening, Formulation and Pharmacokinetics/Pharmacodynamics<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2119,10 +2084,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Xiaohua</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Xiaohua
+  Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2143,10 +2107,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Zhenhua</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Lin<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Zhenhua
+  Lin<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2171,10 +2134,11 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Hai
   Shu<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
-  lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
-  mso-bidi-font-family:仿宋;color:black'>Orthogonal Common-Source and
-  Distinctive-Source Decomposition Between High-Dimensional Data Views<o:p></o:p></span></p>
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:
+  </span><span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;</span></span><span
+  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
+  color:black'>CDPA: Common and Distinctive Pattern Analysis between
+  High-dimensional Datasets<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'><o:p>&nbsp;</o:p></span></p>
   </td>
@@ -2190,10 +2154,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Minghui</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Chen<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Minghui
+  Chen<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Title:</span><span
   lang=EN-US> </span><span lang=EN-US style='font-size:16.0pt;font-family:仿宋;
@@ -2215,10 +2178,9 @@ mso-bidi-font-family:微软雅黑'><o:p>&nbsp;</o:p></span></p>
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.05pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;
-  color:black'>Heping</span></span><span lang=EN-US style='font-size:16.0pt;
-  font-family:仿宋;mso-bidi-font-family:仿宋;color:black'> Zhang<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Heping
+  Zhang<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:16.0pt;font-family:仿宋;mso-bidi-font-family:仿宋;color:black'>Concluding
   Remarks<o:p></o:p></span></p>
@@ -2236,6 +2198,7 @@ style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
 </body>
 
 </html>
+
 
 
 
